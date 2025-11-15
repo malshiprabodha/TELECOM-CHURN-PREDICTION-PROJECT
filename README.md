@@ -25,8 +25,8 @@ This project:
 - Logistic Regression (tested during development)
 
 
----
-📊 Dashboard Features
+
+## 📊 Dashboard Features
 
 The Streamlit app allows you to enter:
 
@@ -44,8 +44,8 @@ Based on these, the model predicts:
 🔴 Likely to churn
 
   
----
-📓 Notebook (Training + EDA)
+
+## 📓 Notebook (Training + EDA)
 
 Telecom_churn.ipynb includes:
 
@@ -55,8 +55,8 @@ Telecom_churn.ipynb includes:
 - Model training & accuracy
 - Model saving with pickle
 
----
-🧑‍💻Technologies Used:
+
+## 🧑‍💻Technologies Used:
 
 - Python 3
 - Streamlit
