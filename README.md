@@ -3,16 +3,6 @@
 This project uses machine learning to predict whether a telecom customer is likely to churn.  
 It includes a **Streamlit web dashboard**, a **trained ML model**, and a **Jupyter Notebook** used for data exploration and model training.
 
-
-## **Table of Contents**
-
-* [Project Overview](#project-overview)
-* [Machine Learning Models Used](#machine-learning-models-used)
-* [Dashboard Features](#dashboard-features)
-* [Notebook (Training + EDA)](#notebook)
-* [Technologies Used](#technologies-used)
-
-
 ## Project Overview
 
 - Customer churn is when customers stop using a company's service.  
